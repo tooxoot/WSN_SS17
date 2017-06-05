@@ -1,2 +1,4 @@
-# WSN_SS17
-Wireless Sensor Networks Seminar - Summer-term 2017
+### WSN_SS17
+Latexproject for the seminar:
+#### Wireless Sensor Networks
+(summer-term 2017)
